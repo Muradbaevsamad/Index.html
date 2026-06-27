@@ -1,0 +1,66 @@
+# 🚗 Samad's Web Page
+
+Samadning shaxsiy veb-sahifasi — mashhur avtomobillar kolleksiyasiga bag'ishlangan.
+
+🌐 **Demo:** [samadswebpage.netlify.app](https://samadswebpage.netlify.app/)
+
+---
+
+## 📌 Loyiha haqida
+
+Bu shaxsiy veb-sahifa bo'lib, unda Samadning sevimli avtomobillari (Bugatti, Nissan GT-R, Formula mashinalari va boshqalar) slider ko'rinishida namoyish etilgan.
+
+---
+
+## 🚀 Xususiyatlar
+
+- 🔍 Qidiruv paneli
+- 🖼️ Avtomobillar slider/karusel (oldingi / keyingi tugmalar)
+- 🏎️ Bugatti, Nissan GT-R, Formula avtomobillari rasmlari
+- 💬 Iqtibos (Quote) bo'limi
+- 📱 Mobil qurilmalarga moslashtirilgan
+
+---
+
+## 🛠️ Texnologiyalar
+
+- HTML5
+- CSS3
+- JavaScript
+- [Netlify](https://www.netlify.com/) — hosting
+
+---
+
+## 📂 Loyihani ishga tushirish
+
+```bash
+# Repositoriyani klonlash
+git clone https://github.com/samad/samads-webpage.git
+
+# Papkaga kirish
+cd samads-webpage
+
+# index.html faylini brauzerda ochish
+open index.html
+```
+
+---
+
+## 📸 Ko'rinishi
+
+> Saytni ko'rish uchun: [https://samadswebpage.netlify.app](https://samadswebpage.netlify.app/)
+
+---
+
+## 📄 Litsenziya
+
+Bu loyiha [MIT](LICENSE) litsenziyasi ostida tarqatiladi.
+
+---
+
+## 👤 Muallif
+
+- **Samad**
+- GitHub: [@samad](https://github.com/samad)
+
+> **Eslatma:** GitHub foydalanuvchi nomingizni o'zgartirishni unutmang!
